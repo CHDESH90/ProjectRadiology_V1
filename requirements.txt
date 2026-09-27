@@ -1,0 +1,6 @@
+# Core Python tooling for ProjectRadiology development
+numpy>=1.26,<3
+Pillow>=10.0
+pydicom>=2.4
+pytest>=8.0
+ruff>=0.4
